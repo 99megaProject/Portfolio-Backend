@@ -1,0 +1,5 @@
+export const FOLLOW_ME_FOLDER = 'followImage'
+export const MY_CLIENT_AVATAR = 'myClientAvatar'
+export const SERVICE_IMG_FOLDER = 'serviceProvided'
+export const PROJECT_IMG_FOLDER = 'projectImage'
+export const ABOUT_ME_AVATAR = 'aboutMeAvatar'
